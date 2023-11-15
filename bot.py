@@ -43,4 +43,4 @@ async def leave_command(ctx):
 async def play_command(ctx, url):
     await play(ctx, url)
 
-bot.run('MTE3NDI4OTM2OTY2Mjc1NDg5Ng.G_tKXG.ZAArVimaZqczhw7sa_NFRWtuZswRcG_zk6WyBw')
+bot.run('Token')
